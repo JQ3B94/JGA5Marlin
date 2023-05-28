@@ -1,7 +1,7 @@
 # JGA5Marlin
 This is a repository containing the latest known functional firmware drivers and assorted other files for the JGAroura/JGCreate A5
 
-this repository exists as it took me 6 hours and about 30 attempts to update the firmware due to the fact that official support for this printer is effectely non existant and the official config files for marlin caused me unexpected errors , this repository should allow an almost plug and play experiance
+this repository exists as it took me 6 hours and about 30 attempts to update the firmware due to the fact that official support for this printer is basicaly non existant due to its age and the official example marlin config files caused me unexpected errors , this repository should allow an almost plug and play experiance as i have modified the firmware files so that less techy people can update the firmware easily. 
 
 # How to flash the motherboard
 Important: If you want to flash the main motherboard, then you MUST disconnect the 8-pin LCD module cable. Otherwise you may end up with a paperweight! Under the front edge of the printer is a hole, simply unplug the 8-pin cable before flashing.
