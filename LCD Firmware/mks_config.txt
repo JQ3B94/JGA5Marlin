@@ -24,7 +24,7 @@
 >cfg_custom_bed_flag:1
 
 #the max target temp of extruder and heated bed
->cfg_max_sprayer_temperature:265
+>cfg_max_sprayer_temperature:260
 >cfg_max_hotbed_temperature:120
 
 #pause position (-1 is invalid; Z-axis is relative position)
