@@ -68,7 +68,7 @@
 // @section info
 
 // Author info of this build printed to the host during boot and M115
-#define STRING_CONFIG_H_AUTHOR "(Joseph Whyman , 28th May 2023)" // Who made the changes.
+#define STRING_CONFIG_H_AUTHOR "(Joseph W, and Millie the cat. 28th May 2023)" // Who made the changes.
 //#define CUSTOM_VERSION_FILE Version.h // Path from the root directory (no quotes)
 
 /**
