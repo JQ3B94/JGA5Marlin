@@ -15,8 +15,7 @@ Marlin 2.0 firmware does not compile properly with the Arduino IDE any more.
 2. Inside VS Code, install the Extensions "Platformio" and "Auto Build Marlin"
 
 3. You may need to install the drivers for the CH340 Serial-to-USB chip used by the printer. This is to allow your computer to talk to the printer motherbaord.
-a) PC CH340 serial drivers are here. https://sparks.gogo.co.nz/assets/_site_/downloads/CH34x_Install_Windows_v3_4.zip
-b) Mac CH340 serial drivers are here. http://sampin.ch/ch340-driver-mac
+MAC USERS: Do not install the drivers if you have macOS Mojave 10.14 or later as they come pre installed and installing new ones can cause problems
 
 Step 2: Compiling & Flashing
 1. Open Visual Studio Code
