@@ -1,5 +1,5 @@
 # JGA5Marlin
-This is a repository containing the latest known functional firmware drivers and assorted other files for the JGAroura/JGCreate A5
+This is a repository containing the latest known functional firmware ,drivers and assorted other files for the JGAroura/JGCreate A5
 
 this repository exists as it took me 6 hours and about 30 attempts to update the firmware due to the fact that official support for this printer is basicaly non existant due to its age and the official example marlin config files caused me unexpected errors , this repository should allow an almost plug and play experiance as i have modified the firmware files so that less techy people can update the firmware easily. 
 
