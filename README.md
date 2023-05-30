@@ -80,9 +80,11 @@ do not modify them unless you know what you are doing.
 10. After flashing, the LCD may be set to look for files on the SD card only. You need to use the settings menu in the LCD to change this back to USB, otherwise your printer will not see any files when you plug in your USB!
 
 
-# Troubleshooting
+# Troubleshooting (i.e problems I [or someome else] encountered and how to fix them)
 If you performed the LCD flash and now the LCD is only flashing “BOOTING” and beeping repeatedly - try flashing again with a different SD card, this is nothing to worry about , no harm has been done.
 
 If you only see white squares on the LCD, you plugged the 8 pin connector into the wrong pins (the set you want is directly above the hole on the bottom front of the printer.
 
 If you plug in a USB and you don't see any files, check the LCD settings page. There is an option for the LCD to look for files on SD card or on USB sticks. Also check you have plugged in the internal USB cable!
+
+If the print bed doesnt heat up , turn off the printer for a few minutes , then turn it on and immediately zero all 3 axies , Marlin has a saftey feature that stops you fom heating up the bed if the printer not zeroed 
