@@ -79,6 +79,10 @@ do not modify them unless you know what you are doing.
 
 10. After flashing, the LCD may be set to look for files on the SD card only. You need to use the settings menu in the LCD to change this back to USB, otherwise your printer will not see any files when you plug in your USB!
 
+#custom config files
+the Configuration.h and Configuration_adv.h files supplied in the same folder as the rest of the printer firmware are for the stock printer with  no modifications done
+if you wish to contribute your own config files please feel free to put them in their own folder inside of the folder labled "motherboard Config files" with a text document describing the modifications that you have made to your printer.
+if you wish to use these or other config files , you just copy and replace the default ones into the "marlin" folder.
 
 # Troubleshooting (i.e problems I [or someome else] encountered and how to fix them)
 If you performed the LCD flash and now the LCD is only flashing “BOOTING” and beeping repeatedly - try flashing again with a different SD card, this is nothing to worry about , no harm has been done.
